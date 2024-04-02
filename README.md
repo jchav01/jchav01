@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jchav01
-- 👀 I’m interested in mathematics
+- 👀 I’m interested in mathematics, physics
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me : jules.chaveyriat@gmail.com
